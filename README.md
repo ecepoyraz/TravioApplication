@@ -6,9 +6,10 @@
 
 ## **Installation**
 
-#Install TravioApplication
+# Install TravioApplication
 
   mkdir TravioApplication && cd TravioApplication
+  <br> 
   git clone https://github.com/ecepoyraz/TravioApplication.git
 
   then run "TravioApplication.xcodeproj" file with XCode
